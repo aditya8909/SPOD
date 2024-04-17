@@ -1,0 +1,46 @@
+
+
+
+
+
+h2,h1,h3{
+  color:white;
+  font-size:170%;
+  /* text-align: center; */
+  font-family: "Space Grotesk", sans-serif;
+}
+h2,h1,h3{
+  color:white;
+  font-size:150%;
+  /* text-align: center; */
+  font-family: "Space Grotesk", sans-serif;
+}
+p{
+  color:white;
+  font-size:100%;
+  margin-left: 5%;
+  margin-right:  5%;
+  text-align: center;
+  font-family: "Space Grotesk", sans-serif;}
+
+.img img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  
+
+}
+.head{
+  text-align:center;
+}
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.copy{
+  font-size: 30%;
+  text-align: right;
+}
